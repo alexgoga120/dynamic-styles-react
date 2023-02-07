@@ -1,6 +1,5 @@
-
-interface PropsCourseInput extends Props{
-    onAddGoal: Function
+interface PropsCourseInput extends Props {
+  onAddGoal: Function;
 }
 
-export default PropsCourseInput
+export default PropsCourseInput;

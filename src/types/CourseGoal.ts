@@ -1,6 +1,6 @@
-import {Key} from "react";
+import { Key } from 'react';
 
 export type CourseGoal = {
-    id: Key,
-    text: string
-}
+  id: Key;
+  text: string;
+};

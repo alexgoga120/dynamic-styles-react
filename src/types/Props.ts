@@ -1,3 +1,3 @@
 export type Props = {
-    children?: JSX.Element | string
-}
+  children?: JSX.Element | string;
+};
